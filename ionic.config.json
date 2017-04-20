@@ -1,4 +1,6 @@
 {
-  "name": "myapp",
-  "app_id": ""
+  "name": "newApp",
+  "app_id": "",
+  "v2": true,
+  "typescript": true
 }
